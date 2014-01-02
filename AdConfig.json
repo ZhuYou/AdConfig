@@ -1,3 +1,20 @@
 {
-	test:1
+	Anwo:{
+		frequency:30,
+		BannerSeq:1,
+		PostSeq:1,
+		show:1
+	},
+	Mobisage:{
+		frequency:30,
+		BannerSeq:2,
+		PostSeq:2,
+		show:1
+	},
+	Domon:{
+		frequency:30,
+		BannerSeq:3,
+		PostSeq:3,
+		show:1
+	}
 }
