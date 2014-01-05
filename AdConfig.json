@@ -1,0 +1,24 @@
+{
+   "Advertisers" : [
+      {
+         "frequency" : 30,
+         "name" : "anwo",
+         "show" : true
+      },
+      {
+         "frequency" : 30,
+         "name" : "mobisage",
+         "show" : true
+      },
+      {
+         "frequency" : 30,
+         "name" : "domob",
+         "show" : true
+      }
+   ],
+   "URL" : [
+      {
+         "url" : "http://git.oschina.net/wumuzi520/AdConfig/raw/master/AdConfig.json"
+      }
+   ]
+}
